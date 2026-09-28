@@ -1,0 +1,11 @@
+{
+  "name": "VaaniCare - AI Voice Recognition",
+  "description": "Simple, accessible voice recognition designed to hear, recognize, and display exactly what was spoken for children and elderly people without translation.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
+
